@@ -1,12 +1,10 @@
 #pip install
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 plotly
-streamlit
-PyPortfolioOpt
-Ta-lib
-NLTK
-psycopg2
-
-
+DVC
+scipy-1.14.1
+seaborn
+scikit-learn
+statsmodels
